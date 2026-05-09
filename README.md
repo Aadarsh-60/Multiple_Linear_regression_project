@@ -18,7 +18,7 @@ The notebook covers:
 
 ```text
 .
-├── 4.0-Multiple+Linear+Regression.ipynb
+├── Multiple+Linear+Regression.ipynb
 ├── regressor.pkl
 ├── README.md
 └── .gitignore
